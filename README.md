@@ -4,6 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/women%20in%20tech-yep-pink.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/made%20with-♥-pink.svg)](https://shields.io/)
 
+![git_alexa](https://user-images.githubusercontent.com/39810066/98176030-be001880-1ec5-11eb-8153-ae2a8419720f.png)
 
 
 ```python
